@@ -18,6 +18,7 @@
 ### 🔎 Modified Part
 - rose-pine colorscheme `(colorscheme.lua)`
 - disable neo-tree `(editor.lua)`
+- set default terminal `(option.lua)`
 
 ## ⚡️ Requirements
 - Neovim >= **0.8.0** (needs to be built with **LuaJIT**)
